@@ -1,4 +1,4 @@
-# MaterialNet: Multi-scale Texture Hierarchy and Multi-view Surface Reflectance for Material Type Recognition
+# MaterialNet ...
 
 This paper is under review.
 
